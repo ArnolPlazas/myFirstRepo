@@ -1,2 +1,4 @@
 def read_file(path):
-  pass
+  print(f"I am reading a file! in this path: {path}")
+
+read_file('/file')
